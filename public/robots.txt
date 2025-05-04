@@ -8,7 +8,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /dev/
 Disallow: /staging/
-Disallow: /sitemap_nel.xml
+Disallow: /sitemap_new.xml
 
 # Sitemaps
 Sitemap: https://www.modernbusiness.com/sitemap.xml
