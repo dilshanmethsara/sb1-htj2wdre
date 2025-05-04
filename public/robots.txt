@@ -8,7 +8,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /dev/
 Disallow: /staging/
-Disallow: public/sitemap_new.xml
+Disallow: /sitemap_new.xml
 
 # Sitemaps
 Sitemap: https://www.modernbusiness1.netlify.app/sitemap_new.xml
