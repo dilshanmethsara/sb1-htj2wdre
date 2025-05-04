@@ -1,4 +1,4 @@
-# robots.txt for www.modernbusiness.com
+# robots.txt for www.modernbusiness1.com
 
 User-agent: *
 Allow: /
@@ -8,6 +8,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /dev/
 Disallow: /staging/
+Disallow: /sitemap_nel.xml
 
 # Sitemaps
 Sitemap: https://www.modernbusiness.com/sitemap.xml
