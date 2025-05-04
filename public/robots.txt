@@ -11,4 +11,4 @@ Disallow: /staging/
 Disallow: public/sitemap_new.xml
 
 # Sitemaps
-Sitemap: https://www.modernbusiness.com/sitemap.xml
+Sitemap: https://www.modernbusiness1.netlify.app/sitemap_new.xml
