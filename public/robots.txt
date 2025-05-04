@@ -1,0 +1,13 @@
+# robots.txt for www.modernbusiness.com
+
+User-agent: *
+Allow: /
+
+# Disallow development environments
+User-agent: *
+Disallow: /admin/
+Disallow: /dev/
+Disallow: /staging/
+
+# Sitemaps
+Sitemap: https://www.modernbusiness.com/sitemap.xml
